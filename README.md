@@ -1,5 +1,9 @@
 # i3-above-all
 
+<p align="center">
+    <img src="./plane_platform.jpg" alt="above all" width="300">
+</p>
+
 It allows you to open your scratchpad over application in fullscreen.
 Solves [this](https://github.com/i3/i3/issues/5673) issue.
 
